@@ -5,7 +5,7 @@ require_once "modal.php";
 <div style="background-color:white;position:fixed;z-index:100;height:100%;width:100%;margin-top:-10px" id="loading"></div>
 <h1 style="width:100%;background-color:#1abc9c;color:white;text-align:center;margin-top:6px;text-shadow:2px 2px black;font-weight:bold;height:70px;line-height:66px">RIO VILLA NUEVO</h1>
 <div style="background-color:white;padding:5%">
-  <form action="">
+  <form>
     <div id="smartwizard">
       <ul>
         <div id="animate" style="position:absolute;background-color:#5cb85c;height:5px;top:0;top:66px;left:195px"></div>
