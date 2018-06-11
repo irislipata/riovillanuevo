@@ -15,6 +15,7 @@ try {
 
     ),
   );
+  $mail->SMTPDebug = 4;
   $mail->isSMTP(); // Set mailer to use SMTP
   $mail->Host     = 'tls://smtp.gmail.com:587'; // Specify main and backup SMTP servers
   $mail->SMTPAuth = true; // Enable SMTP authentication
