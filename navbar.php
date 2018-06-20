@@ -6,11 +6,11 @@
     <span class="icon-bar"></span>
     <span class="icon-bar"></span>
     </a>
-    <img class="navbar-brand" src="https://info.wonderlabs.io/hubfs/NewBlogWonderlabs/logo.png">
+    <img class="navbar-brand" src="image/logo.png">
     </div>
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">About Us</a></li>
+        <li class="active"><a href="#">Home</a></li>
         <li><a href="" target="ext">Gallery</a></li>
         <li><a href="" target="ext">Accomodation</a></li>
         <li><a href="">Contact Us</a></li>
