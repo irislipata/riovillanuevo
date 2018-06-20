@@ -113,6 +113,18 @@ require_once "navbar.php";
       </span>
   </div>
 </div>
-
-
+<br><br>
+<div class="col-xs-4 left" align="center" style="border-right: 1px solid #CCC;">
+  <img src="image/orig-logo.jpg" style="height: 100px;" />
+</div>
+<div class="col-xs-4 center" align="left" style="border-right: 1px solid #CCC;">
+  <i class="fa fa-mobile footer-icon"></i> (+63) 916 234 1234 <br>
+  <i class="fa fa-phone footer-icon"></i> (046) 417 12 34 <br>
+  <i class="fa fa-map-pin footer-icon"></i> Tambo M. Kulit, Indang, Cavite
+</div>
+<div class="col-xs-4 right" align="center">
+  <br>
+  <i class="fa fa-facebook-square" style="font-size:30px;color: #1abc9c"></i><br>
+  Rio Villa Nuevo Official
+</div>
 <?php require_once "footer.php";?>
