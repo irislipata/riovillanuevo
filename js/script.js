@@ -13,7 +13,7 @@
 $(document).ready(function() {
   $('#smartwizard').smartWizard({
     theme: "circles",
-    keyNavigation: false,
+    // keyNavigation: false,
     useURLhash: false,
     transitionEffect: "fade"
   })
@@ -32,7 +32,7 @@ $(document).ready(function() {
   });
   $("#smartwizard").on("showStep", function(e, anchorObject, stepNumber, stepDirection) {
     $(".glow").removeClass("glow")
-    width += stepDirection == "forward" ? 25 : -25
+    width += stepDirection == "forward" ? 22.5 : -22.5
     $("#animate").animate({
       width: `${width}%`
     }, 500, function() {

@@ -61,6 +61,7 @@ require_once "navbar.php";
       <a href="#" data-hover="MORE DETAILS"><span>MORE DETAILS</span></a>
     </nav>
   </span>
+  <br>
 </div>
 <!--start of collage-->
 <div style="background: url('image/try.jpg');background-attachment:fixed;background-size:cover;width:100%;top:0;left:0">

@@ -8,7 +8,7 @@
       <form id="frmLogin">
         <div class="modal-body">
           <div class="row" style="margin-bottom:10px">
-            <div class="col-md-4 text-center" style="line-height:30px">
+            <div class="col-md-4 text-center" style="line-height:30px;padding:0 10px">
               Email Address
             </div>
             <div class="col-md-8">
